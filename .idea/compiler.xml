@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/Practice/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
     <annotationProcessing>
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -11,6 +14,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="AvengerPracticeHour" target="11" />
+      <module name="Practice" target="11" />
+      <module name="Practices" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>

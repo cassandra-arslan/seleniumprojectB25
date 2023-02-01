@@ -11,6 +11,8 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/AvengerPracticeHour/pom.xml" />
+        <option value="$PROJECT_DIR$/Practice/pom.xml" />
+        <option value="$PROJECT_DIR$/Practices/pom.xml" />
       </set>
     </option>
   </component>
